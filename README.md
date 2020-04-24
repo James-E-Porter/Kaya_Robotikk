@@ -7,6 +7,9 @@ Sylvie 2021 is an open source humanoid robotics project whose mission is to brin
 
 It seeks to revolutionize the fields of animatronics and artificial intelligence, as well as push the boundaries of what is mechanically possible with hobby-grade 3d printed parts.
 
+Demo:
+https://www.youtube.com/watch?v=cM-MSwtNQfE
+
 ### Why she will out-compete Sex Robots
  
 While Sylvie is technically speaking not a sex robot, sex robots are in fact Personal Robot Companions. 
