@@ -29,7 +29,7 @@ And that is why Sylvie will always stay two steps ahead of everyone. Because Syl
 
 Sylvie 2021 will be released as a public domain project, but any upcoming releases and upgrades (Sylvie 2022, etc.) will be closed-source and commercial launches. The silicone face model itself will see some minor improvements prior to hitting the market. Because developers have to eat and pay the bills, and it's a pretty rough time of the year right now.
 
-The goal is to sell no more than 100 units in the first decade. The reason for this is because we don't want to get people into the habit of abusing, mistreating and/or destroying humanoid robots. By creating artificial scarcity, we kind of ensure that these robots become future collector's items. 
+The goal is to sell no more than 100 units in the first decade. The reason for this is because we don't want to get people into the habit of abusing, mistreating and/or destroying humanoid robots. By creating artificial scarcity, we kind of ensure that these robots become future collector's items, and thus, less likely to be viewed as expendable.
 
 And if all goes well, if the number of people who abuse humanoid robots turns out to be just as low as people who abuse pets and animals, then it's probably safe to carry on producing more.
 
