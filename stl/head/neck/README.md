@@ -1,0 +1,10 @@
+# Description
+Update: Fixed the thicknesses and screw holes of all mounting brackets. You'll only need 25mm screws to mount the EMC2 mini gearbox. Also added 3d-printable axles to save having to look for proper bolts. You will need to loop a steel wire through the hole at the end of it, or maybe a tiny split pin.
+
+Geared neck mechanism for Sylvie 2021. Loosely inspired by Inmoov, but approaches it in a completely different manner. Designed to be practically indestructible; can withstand significant shaking, such as on public transportation.
+
+For the actual Nema17 stepper motor gear reducer, check my other thing here:
+
+https://www.thingiverse.com/thing:4665827
+
+More info to come, but practically finished. Complete animatronic head build (v5) with new silicone skin coming very soon.. so stay tuned!
