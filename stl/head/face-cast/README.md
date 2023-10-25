@@ -1,3 +1,5 @@
+![span4_sylvie_moldingtools_thumbnail_THINGIVERSE](https://github.com/James-E-Porter/Sylvie_2023/assets/119353407/5dd6db73-5280-4dea-9e9a-d3c35e106510)
+
 # Description
 Update Dec 3: Added the new Cat-Face mold, which uses only 0.90kg of silicone to save money on costs!
 
