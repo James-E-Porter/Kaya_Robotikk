@@ -1,3 +1,6 @@
+
+![span4_NeckMechanism_ForDisplayRENDER](https://github.com/James-E-Porter/Sylvie_2023/assets/119353407/26f37703-2e11-481a-bcde-dd5b56b8ef9f)
+
 # Description
 Update: Fixed the thicknesses and screw holes of all mounting brackets. You'll only need 25mm screws to mount the EMC2 mini gearbox. Also added 3d-printable axles to save having to look for proper bolts. You will need to loop a steel wire through the hole at the end of it, or maybe a tiny split pin.
 
