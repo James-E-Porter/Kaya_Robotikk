@@ -1,3 +1,12 @@
+# Face_01_copy ....
+
+This is the arduino code that i tweaked for my own personal skull.  the case values set up positions for the different servos.  case 10 resets all servos to their resting position.
+
+
+
+
+
+
 # animSkull_PCA9685.ino Code Summary
 
 The Arduino code in the `animSkull_PCA9685.ino` file is designed to control various servo motors to animate a skull. Here's a breakdown of the code:
