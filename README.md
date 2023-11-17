@@ -1,7 +1,11 @@
-## Sylvie-2023 version: 0.01
-Sylvie 2023 is my continuation where Twin_Lizzie left off.  First, I would like to extend a huge thank you for Denise Jaimes' work on this project.  She has been an inspiration and the files she has created are fantastic.  
+![KAYA_LOGO2png](https://github.com/James-E-Porter/Sylvie_2023/assets/119353407/b55523bc-e542-4c60-8c9d-781a5204d479)
+
+## Kaya Robotikk version: 0.01
+Kaya Robotikk is my continuation where Twin_Lizzie left off.  First, I would like to extend a huge thank you for Denise Jaimes' work on this project.  She has been an inspiration and the files she has created are fantastic.  
 
 My goal with this project is to encapsulate an AI into the robotic shell and give it control of the robot.  This will allow the AI to have larger experiences and have a broader spectrum of interaction.  The AI brain is a project I have been working on for a while now in an attempt to discover how to implement personality, mood, and preferences into an AI model.
+
+The logo was made with my Kaya Robotikk model on chatGPT.
 
 ## Sylvie-2021 version: 0.90
 
