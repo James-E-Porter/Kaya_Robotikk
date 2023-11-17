@@ -12,6 +12,7 @@
 - **Memory Type**: LPDDR5
 - **Bus Width**: 128 bit
 - **Launch Price**: 299 USD
+- **Current Price**: 499 USD
 
 ## Performance
 - **GPU Clock**: 625 MHz
