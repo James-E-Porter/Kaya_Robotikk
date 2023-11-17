@@ -1,6 +1,6 @@
 # Hardware Overview
 
-Welcome to the hardware section of our AI robot project README! In this section, we will provide a comprehensive overview of the hardware components, components selection rationale, and how they come together to form the foundation of our robotic system.
+Welcome to the hardware section of our AI robot project! In this section, we will provide a comprehensive overview of the hardware components, components selection rationale, and how they come together to form the foundation of our robotic system.
 
 ## Project Context
 
@@ -49,4 +49,4 @@ Now, let's dive into the details of the hardware components that power our AI ro
 
 - **Versatility**: The Jetson Orin Nano can be used for a wide range of applications, from computer vision and natural language processing to machine learning and control systems, making it versatile for your project's needs.
 
-In summary, the Jetson Orin Nano offers a cost-effective and high-performance solution for running both AI and robotics tasks concurrently. Its AI acceleration, real-time processing capabilities, connectivity options, and community support make it a suitable choice for powering the "brain" of your AI robot project.
+In summary, the Jetson Orin Nano offers a cost-effective and high-performance solution for running both AI and robotics tasks concurrently. Its AI acceleration, real-time processing capabilities, connectivity options, and community support make it a suitable choice for powering the "brain" of our AI robot project.
