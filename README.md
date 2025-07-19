@@ -7,6 +7,7 @@ My goal with this project is to encapsulate an AI into the robotic shell and giv
 
 The logo was made with my Kaya Robotikk model on chatGPT.
 
+The following is the description provided by Denise Jaimeson her original project Sylvie.
 ## Sylvie-2021 version: 0.90
 
 ### Introduction
